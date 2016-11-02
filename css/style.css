@@ -51,6 +51,28 @@ p {
 }
 
 /* MEDIA QUERIES */
+
+/* ************************ 32 ASSIGNMENT ************************** */
+@media (max-width: 1200px) {
+  .one-half {
+    width: 46%;
+  }
+}
+
+@media (max-width: 991px) {
+  .right-footer-block {
+    display: none;
+  }
+}
+
+@media (max-width: 673px) {
+  .macbook {
+    display: none;
+  }
+}
+
+/* *************************32 ASSIGNMENT END *********************** */
+
 @media (min-width: 768px) {
   .container {
     width: 750px;
@@ -411,3 +433,5 @@ footer .logo {
     display: none;
   }
 }
+
+
