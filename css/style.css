@@ -640,3 +640,9 @@ footer .logo {
  }
 
 
+/* CHECKPOINT 34 ASSIGNMENT (CREATE AN ACTIVE CLASS) */
+ .active {
+  border-bottom: 3px #FFF solid;
+ }
+
+
