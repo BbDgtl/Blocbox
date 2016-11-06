@@ -59,9 +59,9 @@ p {
   }
 }
 
-@media (max-width: 991px) {
-  .right-footer-block {
-    display: none;
+@media (min-width: 992px) {
+  .one-third {
+    width: 29.333333%;
   }
 }
 
@@ -638,7 +638,6 @@ footer .logo {
   line-height: 18px;
   margin: 5px 0 0;
  }
-
 
 /* CHECKPOINT 34 ASSIGNMENT (CREATE AN ACTIVE CLASS) */
  .active {
